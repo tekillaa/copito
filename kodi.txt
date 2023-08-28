@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, http://epgspot.com/rytec_epg/rytecUK_SportMovies.xz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/93f57c0ee92a10ffb3323.png" ,Gol Mundial 1  7838
+#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/e0a91c5adcde0f3272943.jpg" ,Gol Mundial 1  7838
 plugin://script.module.horus?action=play&id=78384a676407784df944243eb2f75d937fbcc253
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/6b20c4f151a9859d38fb8.png" ,Gol Mundial 2  4af5
+#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/33058fa92054dce6e1e12.jpg" ,Gol Mundial 2  4af5
 plugin://script.module.horus?action=play&id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/89d5638f5d5d03eccb2b9.png" ,Gol Mundial 3  52c8
+#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/a89a02e875bc727f425d7.jpg" ,Gol Mundial 3  52c8
 plugin://script.module.horus?action=play&id=52c8ff01836c294caad8b8c029b53360aa16a4cd
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/044efa8a0eb7b40f1fda5.png" ,Gol Mundial 4  5a8d
+#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/138cd46b2a835497b718a.jpg" ,Gol Mundial 4  5a8d
 plugin://script.module.horus?action=play&id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080  5789
 plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf803f4d
@@ -81,12 +81,6 @@ plugin://script.module.horus?action=play&id=df67afe5c5f5e82a3ae629d126727b006b65
 plugin://script.module.horus?action=play&id=57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 12 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,ML Campeones 12 SD  3336
 plugin://script.module.horus?action=play&id=33369549c635dabdb78b95c478c21fcc9e4ee854
-#EXTINF:-1 group-title="Mis canales" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Chicago Cubs vs Pittsburgh Pirates  
-https://kiki11.live-streamfootball.co/es/others/mlb-52982/cubs-vs-pirates.html?icg=RVM%3D
-#EXTINF:-1 group-title="Mis canales" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Houston Astros vs Detroit Tigers  
-https://kiki11.live-streamfootball.co/es/others/mlb-52809/astros-vs-tigers.html?icg=RVM%3D
-#EXTINF:-1 group-title="Mis canales" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,New York Yankees vs Tampa Bay Rays  
-https://kiki11.live-streamfootball.co/es/others/mlb-52984/yankees-vs-rays.html?icg=RVM%3D
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080  8ca0
 plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720  eaff
